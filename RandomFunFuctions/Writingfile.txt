@@ -1,0 +1,24 @@
+Name Surname Gross
+==== ==== ====
+Yassin Hassan R0
+Peter Pan R0
+Elon Musk R250000
+Tom Jerry R0
+Jonny Depp R98000000
+Amber Hared R37000
+Google Andriod R0
+Bruce Wayne R900000
+Ben Tenyson R10
+Marshall Mathers R200000
+Sir Robert BobbyHall R1000000
+Jerad Higgens R0
+Jahseh Onfroye R0
+Kanye West R900000
+Jason Born R0
+William Shackespare R0
+Martin Lawrance R400000
+Malcom X R300000
+Will Smith R800000
+Light Yagami R0
+xx xx xx
+Yass Hass Mass
